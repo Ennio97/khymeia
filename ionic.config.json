@@ -1,0 +1,7 @@
+{
+  "name": "academyRoles",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
